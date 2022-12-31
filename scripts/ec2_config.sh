@@ -26,7 +26,7 @@ echo "0bfd792196ce0ec6f1c65d2a9ad00215b2926ef2c416b8d97615265194477117  actions-
 tar xzf ./actions-runner-linux-x64-2.298.2.tar.gz
 
 ## Important
-./config.sh --url https://github.com/ketangangal/SearchEngine-DataCollection --token <mention-you-token-here>
+./config.sh --url https://github.com/github.com/Himanshukathpalia10/reverse-image-search-engine --token A2X7B6KVZ2YWN4UVAQIB6QLDWBFSE
 ./run.sh
 
 ## Add Github runner as a service
